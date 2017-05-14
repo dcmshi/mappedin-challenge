@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Repo from './Repo';
 
 const url = `https://api.github.com/users/axiomaticdesign/starred`;
 
