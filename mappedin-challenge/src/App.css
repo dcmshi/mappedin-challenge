@@ -1,0 +1,52 @@
+.App {
+  background-color: #eee;
+  font-family: 'Segoe Ui';
+  padding: 40px;
+  text-align: center;
+}
+
+.App h2 {
+  font-weight: normal;
+}
+
+.App a {
+  color: #007afb;
+}
+
+.App i {
+  color: #ffc500;
+  margin-right: 7px;
+}
+
+.counters {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.counters div {
+  margin-right: 20px;
+}
+
+.counters i {
+  color: #333;
+  margin-right: 5px;
+  font-size: 1.25em;
+}
+
+.counters a:link, a:visited {
+  color: #777;
+  text-decoration: none;
+}
+
+.counters a:hover, a:active {
+  color: #ff5600;
+}
+
+.Repo {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  text-align: left;
+}
