@@ -1,0 +1,53 @@
+.Repo {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  text-align: left;
+}
+
+.repo-header {
+  font-weight: normal;
+}
+
+.repo-icon {
+  color: #ffc500;
+  margin-right: 7px;
+}
+
+.repo-link {
+  color: #007afb;
+}
+
+.counters {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.stars, 
+.forks{
+  margin-right: 20px;
+}
+
+.star-icon, 
+.fork-icon {
+  color: #333;
+  margin-right: 5px;
+  font-size: 1.25em;
+}
+
+.star-link:link, 
+.star-link:visited, 
+.fork-link:link, 
+.fork-link:visited {
+  color: #777;
+  text-decoration: none;
+}
+
+.star-link:hover, 
+.star-link:active,
+.fork-link:hover,
+.fork-link:active {
+  color: #ff5600;
+}
