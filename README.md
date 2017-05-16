@@ -4,4 +4,4 @@ Hi MappedIn, here's my submission for the little challenge I was given. Replicat
 
 # How to Run
 
-Make sure you have [npm installed](http://blog.npmjs.org/post/85484771375/how-to-install-npm), then navigate to the mappedin-challenge folder and run `npm-start`.  The app should now be available at [http://localhost:3000/](http://localhost:3000/).
+Make sure you have [npm installed](http://blog.npmjs.org/post/85484771375/how-to-install-npm), then navigate to the mappedin-challenge folder and run `npm install` to make sure you have the necessary packages, then run `npm start`.  The app should now be available locally at [http://localhost:3000/](http://localhost:3000/).
